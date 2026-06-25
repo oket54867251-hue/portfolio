@@ -8,7 +8,7 @@ import React from "react";
 
 export default function App() {
   const skills = [
-    "Python","SQL","Pandas","NumPy","Matplotlib","Seaborn",
+    "Jython","SQL","Pandas","NumPy","Matplotlib","Seaborn",
     "Scikit-learn","TensorFlow","Power BI","Excel","Git","GitHub"
   ];
 
